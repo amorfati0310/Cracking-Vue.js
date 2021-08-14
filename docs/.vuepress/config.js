@@ -1,7 +1,7 @@
 module.exports = {
 	title: 'Cracking Vue.js',
 	description: 'JavaScript, Vue.js, Nuxt.js',
-	base: '/vue-camp/',
+	base: 'https://amorfati0310.github.io//Cracking-Vue.js',
 	head: [
 		['link', { rel: 'icon', href: '/logo.png' }],
 		['link', { rel: 'manifest', href: '/manifest.json' }],
